@@ -1,0 +1,84 @@
+\contentsline {section}{\numberline {1}openEuler 系统环境实验}{1}{}%
+\contentsline {subsection}{\numberline {1.1}进程相关编程实验}{1}{}%
+\contentsline {subsubsection}{\numberline {1.1.1}实验目的}{1}{}%
+\contentsline {subsubsection}{\numberline {1.1.2}实验内容}{1}{}%
+\contentsline {subsubsection}{\numberline {1.1.3}实验思想}{2}{}%
+\contentsline {subsubsection}{\numberline {1.1.4}实验步骤}{2}{}%
+\contentsline {subsubsection}{\numberline {1.1.5}测试数据设计}{2}{}%
+\contentsline {subsubsection}{\numberline {1.1.6}程序运行初值及运行结果分析}{2}{}%
+\contentsline {subsection}{\numberline {1.2}线程相关编程实验}{5}{}%
+\contentsline {subsubsection}{\numberline {1.2.1}实验目的}{5}{}%
+\contentsline {subsubsection}{\numberline {1.2.2}实验内容}{5}{}%
+\contentsline {subsubsection}{\numberline {1.2.3}实验思想}{5}{}%
+\contentsline {subsubsection}{\numberline {1.2.4}实验步骤}{5}{}%
+\contentsline {subsubsection}{\numberline {1.2.5}测试数据设计}{6}{}%
+\contentsline {subsubsection}{\numberline {1.2.6}程序运行初值及运行结果分析}{6}{}%
+\contentsline {subsection}{\numberline {1.3}自旋锁相关编程实验}{8}{}%
+\contentsline {subsubsection}{\numberline {1.3.1}实验目的}{8}{}%
+\contentsline {subsubsection}{\numberline {1.3.2}实验内容}{8}{}%
+\contentsline {subsubsection}{\numberline {1.3.3}实验思想}{8}{}%
+\contentsline {subsubsection}{\numberline {1.3.4}实验步骤}{8}{}%
+\contentsline {subsubsection}{\numberline {1.3.5}测试数据设计}{8}{}%
+\contentsline {subsubsection}{\numberline {1.3.6}程序运行初值及运行结果分析}{8}{}%
+\contentsline {subsection}{\numberline {1.4}实验总结}{9}{}%
+\contentsline {subsubsection}{\numberline {1.4.1}实验中的问题与解决过程}{9}{}%
+\contentsline {subsubsection}{\numberline {1.4.2}实验收获}{9}{}%
+\contentsline {subsubsection}{\numberline {1.4.3}意见与建议}{9}{}%
+\contentsline {subsection}{\numberline {1.5}附件}{10}{}%
+\contentsline {subsubsection}{\numberline {1.5.1}附件1 实验1.1代码}{10}{}%
+\contentsline {subsubsection}{\numberline {1.5.2}附件2 实验1.2代码}{10}{}%
+\contentsline {subsubsection}{\numberline {1.5.3}附件3 实验1.3代码}{12}{}%
+\contentsline {subsubsection}{\numberline {1.5.4}附件4 README}{13}{}%
+\contentsline {section}{\numberline {2}进程通信与内存管理}{31}{}%
+\contentsline {subsection}{\numberline {2.1}进程的软中断通信}{31}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}实验目的}{31}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}实验内容}{31}{}%
+\contentsline {subsubsection}{\numberline {2.1.3}实验思想}{31}{}%
+\contentsline {subsubsection}{\numberline {2.1.4}实验步骤}{31}{}%
+\contentsline {subsubsection}{\numberline {2.1.5}测试数据设计}{31}{}%
+\contentsline {subsubsection}{\numberline {2.1.6}程序运行初值及运行结果分析}{31}{}%
+\contentsline {subsubsection}{\numberline {2.1.7}问题回答}{32}{}%
+\contentsline {subsection}{\numberline {2.2}进程的管道通信}{33}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}实验目的}{33}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}实验内容}{33}{}%
+\contentsline {subsubsection}{\numberline {2.2.3}实验思想}{33}{}%
+\contentsline {subsubsection}{\numberline {2.2.4}实验步骤}{33}{}%
+\contentsline {subsubsection}{\numberline {2.2.5}测试数据设计}{33}{}%
+\contentsline {subsubsection}{\numberline {2.2.6}程序运行初值及运行结果分析}{34}{}%
+\contentsline {subsubsection}{\numberline {2.2.7}问题回答}{34}{}%
+\contentsline {subsection}{\numberline {2.3}内存的分配与回收}{35}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}实验目的}{35}{}%
+\contentsline {subsubsection}{\numberline {2.3.2}实验内容}{35}{}%
+\contentsline {subsubsection}{\numberline {2.3.3}实验思想}{35}{}%
+\contentsline {subsubsection}{\numberline {2.3.4}实验步骤}{35}{}%
+\contentsline {subsubsection}{\numberline {2.3.5}测试数据设计}{35}{}%
+\contentsline {subsubsection}{\numberline {2.3.6}程序运行初值及运行结果分析}{36}{}%
+\contentsline {subsubsection}{\numberline {2.3.7}问题回答}{38}{}%
+\contentsline {subsection}{\numberline {2.4}实验总结}{39}{}%
+\contentsline {subsubsection}{\numberline {2.4.1}实验中的问题与解决过程}{39}{}%
+\contentsline {subsubsection}{\numberline {2.4.2}实验收获}{40}{}%
+\contentsline {subsubsection}{\numberline {2.4.3}意见与建议}{40}{}%
+\contentsline {subsection}{\numberline {2.5}附件}{40}{}%
+\contentsline {subsubsection}{\numberline {2.5.1}附件1 实验2.1代码}{40}{}%
+\contentsline {subsubsection}{\numberline {2.5.2}附件2 实验2.2代码}{42}{}%
+\contentsline {subsubsection}{\numberline {2.5.3}附件3 实验2.3代码}{44}{}%
+\contentsline {subsubsection}{\numberline {2.5.4}附件4 README}{62}{}%
+\contentsline {section}{\numberline {3}文件系统}{87}{}%
+\contentsline {subsection}{\numberline {3.1}实验目的}{87}{}%
+\contentsline {subsection}{\numberline {3.2}实验内容}{87}{}%
+\contentsline {subsection}{\numberline {3.3}实验思想}{87}{}%
+\contentsline {subsection}{\numberline {3.4}实验步骤}{87}{}%
+\contentsline {subsection}{\numberline {3.5}测试数据设计}{87}{}%
+\contentsline {subsection}{\numberline {3.6}代码简介（具体代码见附件）}{88}{}%
+\contentsline {subsection}{\numberline {3.7}程序运行初值及运行结果分析}{90}{}%
+\contentsline {subsection}{\numberline {3.8}问题回答}{92}{}%
+\contentsline {subsection}{\numberline {3.9}实验总结}{93}{}%
+\contentsline {subsubsection}{\numberline {3.9.1}实验中的问题与解决过程}{93}{}%
+\contentsline {subsubsection}{\numberline {3.9.2}实验收获}{93}{}%
+\contentsline {subsubsection}{\numberline {3.9.3}意见与建议}{93}{}%
+\contentsline {subsection}{\numberline {3.10}附件}{93}{}%
+\contentsline {subsubsection}{\numberline {3.10.1}附件1 ext2\_func.h}{93}{}%
+\contentsline {subsubsection}{\numberline {3.10.2}附件2 ext2\_func.c}{97}{}%
+\contentsline {subsubsection}{\numberline {3.10.3}附件3 shell.h}{133}{}%
+\contentsline {subsubsection}{\numberline {3.10.4}附件4 shell.c}{133}{}%
+\contentsline {subsubsection}{\numberline {3.10.5}附件5 README}{137}{}%
