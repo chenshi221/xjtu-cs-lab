@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "f8a4188a95ca5c1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c76e78cb4cb56197",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4de98f0737ff02a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实验三/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27f38f1c1d065b9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fdce09e58b2f986",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3712af1e50fce415",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63b0d20582ff6d98",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a7b2f7adad3e1c00",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a4fe17baf897f829",
+    "type": "split",
+    "children": [
+      {
+        "id": "d063140384b07125",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae7601dd9279b4fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "实验三/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d4cd5da89535229",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "实验三/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c9b4e35d555da09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f17a6bf7c24f1593",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "实验三/README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "4de98f0737ff02a2",
+  "lastOpenFiles": [
+    "实验三/README.pdf",
+    "实验二/README.md",
+    "实验二/README.pdf"
+  ]
+}

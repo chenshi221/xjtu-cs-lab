@@ -1,0 +1,11 @@
+{
+  "accentColor": "#ba8617",
+  "cssTheme": "Things",
+  "theme": "obsidian",
+  "interfaceFontFamily": "SF Pro,系统字体,Hack Nerd Font",
+  "textFontFamily": "微软雅黑,Hack Nerd Font,SF Pro",
+  "monospaceFontFamily": "Hack Nerd Font",
+  "baseFontSize": 17,
+  "baseFontSizeAction": true,
+  "nativeMenus": true
+}

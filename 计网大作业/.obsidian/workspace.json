@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "dc759d1612a3abbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "572e594f5c40afe7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e04d87f9b749a490",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "路由器/lab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7af70d70712d69bb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9d22cb8e16738a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3fca1fb88ed2336",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a60a6e14942c11b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d864bead4bacb15",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54c75b8928b2fca3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "041d73621cf21fae",
+    "type": "split",
+    "children": [
+      {
+        "id": "877c9f42edfd236e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "465b7923c4dda791",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "路由器/lab.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d46546895684437a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "路由器/lab.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "700e4eef9ce1ad42",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "30a3d7e3797128f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "路由器/lab.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "7af70d70712d69bb",
+  "lastOpenFiles": [
+    "路由器/lab.pdf",
+    "http协议分析/计网lab.md",
+    "http协议分析/计网lab.pdf",
+    "计网lab.md",
+    "http协议分析/image-5.png",
+    "http协议分析/image-4.png",
+    "http协议分析/image-3.png",
+    "http协议分析/image-2.png",
+    "http协议分析/image-1.png",
+    "http协议分析/image.png",
+    "http协议分析/http—2215015058-1.pcapng",
+    "http协议分析/http—2215015058.pcapng",
+    "http协议分析",
+    "新建文件夹",
+    "http—2215015058.pcapng",
+    "http—2215015058-1.pcapng",
+    "计网lab.pdf"
+  ]
+}
